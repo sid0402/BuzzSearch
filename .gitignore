@@ -1,0 +1,9 @@
+*.json
+*.jsonl
+*.txt
+*.md
+*.html
+*.csv
+*.jsonl
+/scraper/gatech_crawl/html/*
+/rust-learning
